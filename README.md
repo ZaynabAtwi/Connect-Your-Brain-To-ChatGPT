@@ -8,8 +8,12 @@ MindBridge is a hackathon prototype demonstrating how EEG signals can:
 2. Adapt ChatGPT tone based on emotion (Emotionally Adaptive),
 3. Provide brain-driven interface commands (Brain-Controlled).
 
+This is a research project for the BR4IN.IO Hackathon and IEEE SMC hackathon organised by G.tec- Never stop Recording.
+
 This repository contains training code, inference pipeline, and a Streamlit demo integrating the three pipelines.
+
 ## Repo structure
+```
 neurotypegpt/
 ├─ data/ # dataset download instructions & sample preprocessed files
 ├─ notebooks/ # EDA and model experiments
@@ -23,7 +27,7 @@ neurotypegpt/
 ├─ models/ # saved model weights
 ├─ README.md
 └─ requirements.txt
-
+```
 
 
 ## Quickstart (local)
@@ -59,5 +63,8 @@ All brain-initiated actions must confirm critical operations where possible.
 ## License
 
 MIT (adjust as needed).
+
+## Contributers
+Zaynab Atwi, Catherine Ahn, Tony Ng and Navrik
 
 
